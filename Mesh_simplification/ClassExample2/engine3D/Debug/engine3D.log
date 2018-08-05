@@ -1,0 +1,16 @@
+﻿  obj_loader.cpp
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(362): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(363): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(453): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(491): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(510): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(599): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(628): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(653): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(663): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(675): warning C4018: '<': signed/unsigned mismatch
+c:\users\zohar\desktop\ass1vgp\zohar\classexample2\engine3d\obj_loader.cpp(920): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  engine3D.vcxproj -> C:\Users\zohar\Desktop\ass1vgp\zohar\ClassExample2\Debug\engine3D.lib
